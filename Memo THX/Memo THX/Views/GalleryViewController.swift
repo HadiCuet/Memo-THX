@@ -33,7 +33,6 @@ class GalleryViewController: UIViewController, UICollectionViewDelegate {
                                             forSupplementaryViewOfKind: UICollectionView.elementKindSectionFooter,
                                             withReuseIdentifier: ActivityIndicatorFooterView.identifier)
         Log.info("GalleryViewController - viewDidLoad [-]")
-        Log.info("GalleryViewController - viewDidLoad [-]")
     }
 
     func bindViewModelData() {
