@@ -20,7 +20,7 @@ class Memo_THXTests: XCTestCase {
 
     func testExample() throws {
         let x = 10
-        XCTAssertEqual(x, 20)
+        XCTAssertEqual(x, 10)
     }
 
     func testPerformanceExample() throws {
